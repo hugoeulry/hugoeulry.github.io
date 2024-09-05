@@ -33,7 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:hugo.eulry@ens-lyon.fr'
     label: E-mail Me
+  - icon: brands/arxiv
+    url: https://arxiv.org/search/?query=eulry&searchtype=author&source=header
 
+    
 interests:
   - Singular SPDEs
   - Paracontrolled calculus
