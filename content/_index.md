@@ -66,7 +66,7 @@ sections:
       text: |- 
             - January 2024, Nicolas Perkowski’s team seminar, Freie Universität, Berlin.
             - October 2023, Landau seminar, IRMAR, Rennes.
-            - June 2023, ANR Smooth Workshop, Institut Elie Cartan de Lorraine, Nancy.
+            - October 2023, ANR Smooth Workshop, Institut Elie Cartan de Lorraine, Nancy.
             - October 2022, Nicolas Perkowski’s team seminar, Freie Universität, Berlin.
             - May 2022, ”Rough paths, stochastic partial differential equations and related topics” seminar, Technische Universität, Berlin.
     design:
