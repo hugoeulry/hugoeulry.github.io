@@ -24,4 +24,6 @@ summary: We use some tools from nonlinear analysis to study two examples of sing
 #featured: true
 
 url_pdf: https://arxiv.org/abs/2202.09628v2
+
+share: false
 ---

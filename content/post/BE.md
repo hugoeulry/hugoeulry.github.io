@@ -23,4 +23,6 @@ summary: We study a counterpart to the quasilinear generalized parabolic Anderso
 #featured: true
 
 url_pdf: https://arxiv.org/abs/2405.18057
+
+share: false
 ---
