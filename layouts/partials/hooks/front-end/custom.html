@@ -1,0 +1,39 @@
+<!-- Script to count the number of times the user has clicked on the avatar picture -->
+<!-- and display a surprise picture if there has been 10 clicks. -->
+<script>
+  let nb_clicks_needed_for_surprise = 10;
+    let nb_clicks = -1;
+    let using_correct_avatar=true;
+    let correct_avatar_element = "";
+    function avatarClickedSeveralTimesQuickly(element) {
+      // save src of the correct avatar picture the first time we click on it
+      if (nb_clicks < 0) {
+        correct_avatar_element = element.cloneNode();
+        // ensure the size of the newly loaded picture is correct by setting explicitely its
+        // style width and height
+        element.style.width = element.clientWidth + "px";
+        element.style.height = element.clientHeight + "px";
+        nb_clicks++;
+      }
+
+      // console.log(element);
+
+      nb_clicks++;
+      
+      // switch to the hidden picture if we have clicked enough times
+      if (nb_clicks == nb_clicks_needed_for_surprise && using_correct_avatar){
+        element.src = "imgs/good_enough.jpeg";
+        element.alt = "coolest monkey";
+        using_correct_avatar = false;
+        nb_clicks = 0;
+      }
+
+      // if we click once more on the picture, revert back to the correct avatar picture
+      if (nb_clicks == 1 && !using_correct_avatar){
+        element.src = correct_avatar_element.src;
+        element.alt = correct_avatar_element.alt;
+        using_correct_avatar = true;
+        nb_clicks = 0;
+      }
+    }
+</script>
