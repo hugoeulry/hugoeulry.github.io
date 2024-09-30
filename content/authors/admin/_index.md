@@ -68,7 +68,7 @@ confs:
 
 upconfs:
   - 2024, Young researchers in deterministic and probabilistic dispersive equations, EPFL, Lausanne
-  - 2024, Journées EDP A-R-A, Grenoble
+  - 2024, Journées EDP A-R-A, LJK Grenoble
 
 
 languages:
