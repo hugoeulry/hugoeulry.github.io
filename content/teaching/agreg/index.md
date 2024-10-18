@@ -6,6 +6,12 @@ type: docs
 math: true
 ---
 
+## Feuilles d'exercices
+
+Les feuilles d'exos accompagnant les compléments de cours donnés à l'ENS de Lyon en 2024-2025.
+- [Fonctions holomorphes](./docs/TD_holo.pdf).
+
+
 ## Notes de cours
 
 Les notes ayant servi de base aux compléments que j'ai eu l'occasion de donner en agrégation à Rennes et préparer les écrits blancs.
