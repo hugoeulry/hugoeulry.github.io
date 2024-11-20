@@ -10,3 +10,4 @@ type: landing
 - October 2023, Landau seminar, IRMAR, Rennes.
 - January 2024, Nicolas Perkowski’s team seminar, Freie Universität, Berlin.
 - November 2024, Journées EDP Auvergne-Rhône-Alpes, LJK Grenoble.
+- June 2024, Analysis seminar, IECL Nancy.
