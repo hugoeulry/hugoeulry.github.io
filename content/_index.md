@@ -65,6 +65,7 @@ sections:
     content: 
       title: Past and upcoming talks
       text: |- 
+            - November 2024, Journées EDP Auvergne-Rhône-Alpes, LJK Grenoble 
             - January 2024, Nicolas Perkowski’s team seminar, Freie Universität, Berlin.
             - October 2023, Landau seminar, IRMAR, Rennes.
             - October 2023, ANR Smooth Workshop, Institut Elie Cartan de Lorraine, Nancy.
