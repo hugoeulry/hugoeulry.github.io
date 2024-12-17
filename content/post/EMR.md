@@ -2,7 +2,7 @@
 title: "Anderson stochastic quantization equation"
 authors:
 - H. Eulry
-- A. Mouzard
+- <a href="https://amouzard.perso.math.cnrs.fr/">A. Mouzard</a>
 - T. Robert
 date: "2024-01-23"
 doi: ""
