@@ -63,7 +63,7 @@ education:
     date_end: 2020
 
 confs:
-  - 2024, Journées EDP Auvergene-Rhône-Alpes, LJK Grenoble
+  - 2024, Journées EDP Auvergne-Rhône-Alpes, LJK Grenoble
   - 2024, Young researchers in deterministic and probabilistic dispersive equations, EPFL, Lausanne
   - 2024, Turbulent.e.s, Ecole Polytechnique
 
