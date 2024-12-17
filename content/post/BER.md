@@ -5,7 +5,7 @@ authors:
 - H. Eulry
 - T. Robert
 date: "2022-02-19"
-doi: ""
+doi: 10.5802/afst.1778
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,7 +23,7 @@ summary: We use some tools from nonlinear analysis to study two examples of sing
 
 #featured: true
 
-url_pdf: https://arxiv.org/abs/2202.09628v2
+url_pdf: https://afst.centre-mersenne.org/articles/10.5802/afst.1778/
 
 share: false
 ---
