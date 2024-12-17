@@ -47,7 +47,7 @@ sections:
               - probabilistic properties of the dynamics (still a work in progress though).
 
               Starting from September 2024, I work on related topics at UMPA, ENS Lyon, under the supervision of Nikolay Tzvetkov.
-              [Google]]({{<https://www.google.fr>}} "Test")
+              [Google]({{<https://www.google.fr>}} "Test")
     design:
        columns: '1'
   - block: collection
