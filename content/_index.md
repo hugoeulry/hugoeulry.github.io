@@ -65,6 +65,7 @@ sections:
     content: 
       title: Past and upcoming talks
       text: |- 
+            - Februray 2025, DynQua Conference 2025, Angers.
             - November 2024, Journées EDP Auvergne-Rhône-Alpes, LJK Grenoble.
             - June 2024, Analysis seminar, IECL Nancy.
             - January 2024, Nicolas Perkowski’s team seminar, Freie Universität, Berlin.
