@@ -43,7 +43,7 @@ sections:
               I am mostly interested in the study of singular SPDEs using the tools from paracontrolled calculus. I defended my PhD thesis "Anderson stochastic quantization and paracontrolled calculus : stochastic PDEs in a singular environment." in June 2024. Some of the results obtained during my PhD include:
               - a fine comparison property between the Green functions of the Anderson Hamiltonian and the usual Laplace Beltrami operator;
               - a variational construction of an invariant measure to the polynomial {{< math>}}$\Phi_2${{< /math>}} model driven by the Anderson operator;
-              - a global solution theory for the same model starting from deterministic rough [data](https://www.google.fr);
+              - a global solution theory for the same model starting from deterministic rough data;
               - probabilistic properties of the dynamics (still a work in progress though).
 
               Starting from September 2024, I work on related topics at UMPA, ENS Lyon, under the supervision of Nikolay Tzvetkov.
