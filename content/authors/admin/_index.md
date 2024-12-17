@@ -69,6 +69,7 @@ confs:
 
 upconfs:
   - 2025, DynQua Conference 2025, Angers
+  - 2025, <a href="https://amouzard.perso.math.cnrs.fr/PAMP.html"> Probability, Analysis and Mathematical Physics</a>, Univ. Nanterre
 
 
 languages:
