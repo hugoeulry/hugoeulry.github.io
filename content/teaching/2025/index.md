@@ -1,7 +1,7 @@
 ---
 title: EDP 2024-2025
 summary: TD d'EDP en L3 à l'ENS de Lyon
-date: 2024-07-01
+date: 2025-01-01
 type: docs
 math: true
 ---
