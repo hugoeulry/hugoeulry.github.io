@@ -14,4 +14,4 @@ math: true
 
 ## DM 2024-2025
 
-- [DM1](./docs/DM1.pdf) : à rendre le mercredi 27 février 2025
+- [DM1](./docs/DM1.pdf) : à rendre le mercredi 26 février 2025
