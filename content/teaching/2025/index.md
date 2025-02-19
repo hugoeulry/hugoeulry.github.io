@@ -10,6 +10,7 @@ math: true
 
 - [TD1](./docs/TD1.pdf) : Équation de transport et équation des ondes
 - [TD2](./docs/TD2.pdf) : Lois de conservation scalaires
+- [TD3](./docs/TD3.pdf) : Espaces L^p et équation de la chaleur
 
 
 ## DM 2024-2025
