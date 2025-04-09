@@ -12,6 +12,7 @@ math: true
 - [TD2](./docs/TD2.pdf) : Lois de conservation scalaires
 - [TD3](./docs/TD3.pdf) : Espaces L^p
 - [TD4](./docs/TD4.pdf) : Solutions entropiques
+- [TD5](./docs/TD5.pdf) : Équation de la chaleur
 
 
 ## DM 2024-2025
