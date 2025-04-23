@@ -13,7 +13,7 @@ math: true
 - [TD3](./docs/TD3.pdf) : Espaces L^p
 - [TD4](./docs/TD4.pdf) : Solutions entropiques
 - [TD5](./docs/TD5.pdf) : Équation de la chaleur
-
+- [TD6](./docs/TD6.pdf) : Espaces de Sobolev et un peu d'elliptique
 
 ## DM 2024-2025
 
