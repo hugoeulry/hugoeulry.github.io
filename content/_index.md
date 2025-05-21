@@ -44,7 +44,7 @@ sections:
               - a fine comparison property between the Green functions of the Anderson Hamiltonian and the usual Laplace Beltrami operator;
               - a variational construction of an invariant measure to the polynomial {{< math>}}$\Phi_2${{< /math>}} model driven by the Anderson operator;
               - a global solution theory for the same model starting from deterministic rough data;
-              - probabilistic properties of the dynamics (still a work in progress though).
+              - probabilistic properties of the dynamics.
 
               Starting from September 2024, I work on related topics at UMPA, ENS Lyon, under the supervision of <a href="https://tzvetkov.perso.math.cnrs.fr/">Nikolay Tzvetkov</a>.
     design:
