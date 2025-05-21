@@ -63,7 +63,7 @@ education:
     date_end: 2020
 
 confs:
-  - 2025, ADA ANR project conference, Lyon
+  - 2025, ANR ADA Conference, Lyon
   - 2025, DynQua Conference 2025, Angers
   - 2024, Journées EDP Auvergne-Rhône-Alpes, LJK Grenoble
   - 2024, Young researchers in deterministic and probabilistic dispersive equations, EPFL, Lausanne
