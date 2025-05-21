@@ -5,6 +5,7 @@ authors:
 - A. Mouzard
 date: "2025-05-16"
 doi: ""
+reading_time: false
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

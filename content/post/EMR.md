@@ -6,6 +6,7 @@ authors:
 - T. Robert
 date: "2024-01-23"
 doi: ""
+reading_time: false
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

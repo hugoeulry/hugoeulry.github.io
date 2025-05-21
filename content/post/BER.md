@@ -6,6 +6,7 @@ authors:
 - T. Robert
 date: "2022-02-19"
 doi: "10.5802/afst.1778"
+reading_time: false
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
