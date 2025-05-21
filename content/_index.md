@@ -65,6 +65,7 @@ sections:
     content: 
       title: Past and upcoming talks
       text: |- 
+            - March 2025, Institu Denis Poisson seminar, Orléans.
             - Februray 2025, DynQua Conference 2025, Angers.
             - November 2024, Journées EDP Auvergne-Rhône-Alpes, LJK Grenoble.
             - June 2024, Analysis seminar, IECL Nancy.
