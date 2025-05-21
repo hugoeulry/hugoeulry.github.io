@@ -12,3 +12,4 @@ type: landing
 - November 2024, Journées EDP Auvergne-Rhône-Alpes, LJK Grenoble.
 - June 2024, Analysis seminar, IECL Nancy.
 - Februray 2025, GDR DynQua conference, Angers.
+- March 2025, Institu Denis Poisson seminar, Orléans.
