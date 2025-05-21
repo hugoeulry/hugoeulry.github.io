@@ -65,6 +65,7 @@ sections:
     content: 
       title: Past and upcoming talks
       text: |- 
+            - March 2025, Journées jeunes analystes et modélisateurs, ICJ Lyon.
             - March 2025, Institut Denis Poisson seminar, Orléans.
             - Februray 2025, DynQua Conference 2025, Angers.
             - November 2024, Journées EDP Auvergne-Rhône-Alpes, LJK Grenoble.

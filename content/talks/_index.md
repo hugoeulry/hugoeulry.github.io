@@ -13,3 +13,4 @@ type: landing
 - June 2024, Analysis seminar, IECL Nancy.
 - Februray 2025, GDR DynQua conference, Angers.
 - March 2025, Institut Denis Poisson seminar, Orléans.
+- March 2025, Journées jeunes analystes et modélisateurs, Lyon.
