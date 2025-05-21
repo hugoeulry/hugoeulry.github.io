@@ -1,5 +1,5 @@
 ---
-title: "Ergodicity of the Anderson {{< math >}}$\Phi^4_2${{< /math >}} model"
+title: "Ergodicity of the Anderson $\Phi^4_2$ model"
 authors:
 - H. Eulry
 - A. Mouzard
