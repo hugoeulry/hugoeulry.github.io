@@ -1,5 +1,5 @@
 ---
-title: "Ergodicity of the Anderson $\Phi^4_2$ model"
+title: "Ergodicity of the Anderson model"
 authors:
 - H. Eulry
 - A. Mouzard
@@ -20,7 +20,7 @@ abstract: We consider the parabolic stochastic quantization equation associated 
  
 
 # Summary. An optional shortened abstract.
-summary: We consider the parabolic stochastic quantization equation associated to the {{< math >}}$\Phi^4_2${{< /math >}} model on the torus in a spatial white noise environment. We study the long time behavior of this heat equation with independent multiplicative white noise and additive spacetime white noise and prove convergence towards a unique invariant measure.
+summary: We consider the parabolic stochastic quantization equation associated to the $\Phi^4_2$ model on the torus in a spatial white noise environment. We study the long time behavior of this heat equation with independent multiplicative white noise and additive spacetime white noise and prove convergence towards a unique invariant measure.
 
 #featured: true
 
