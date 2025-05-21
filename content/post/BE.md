@@ -5,7 +5,7 @@ authors:
 - H. Eulry
 date: "2024-05-28"
 doi: ""
-reading time = false
+reading_time: false
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
