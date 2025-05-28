@@ -65,6 +65,7 @@ sections:
     content: 
       title: Past and upcoming talks
       text: |- 
+            - May 2025, Journée d'équipe, ENS Lyon
             - March 2025, Journée jeunes analystes et modélisateurs, ICJ Lyon.
             - March 2025, Institut Denis Poisson seminar, Orléans.
             - Februray 2025, DynQua Conference 2025, Angers.
