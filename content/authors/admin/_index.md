@@ -69,8 +69,8 @@ confs:
 
 upconfs:
   - June 2025, ANR Smooth Conference, Lyon
-  - November 2025, Probability, Analysis and Mathematical Physics <a href="https://amouzard.perso.math.cnrs.fr/PAMP.html">(<b><u>link</u></b>)</a>, Nanterre
-
+  - November 2025, Probability, Analysis and Mathematical Physics, Nanterre
+# <a href="https://amouzard.perso.math.cnrs.fr/PAMP.html">(<b><u>link</u></b>)</a>
 languages:
   - name: French
     percent: 100
