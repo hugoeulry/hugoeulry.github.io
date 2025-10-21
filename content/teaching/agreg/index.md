@@ -8,7 +8,7 @@ math: true
 
 ## Feuilles d'exercices
 
-Les feuilles d'exos accompagnant les compléments de cours donnés à l'ENS de Lyon en 2024-2025.
+Les feuilles d'exos accompagnant les compléments de cours donnés à l'ENS de Lyon en 2025-2026.
 - [Fonctions holomorphes](./docs/TD_holo.pdf).
 
 
