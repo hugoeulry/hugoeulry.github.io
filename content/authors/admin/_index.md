@@ -70,6 +70,7 @@ confs:
 
 upconfs:
   - November 2025, Probability, Analysis and Mathematical Physics, Nanterre <a href="https://amouzard.perso.math.cnrs.fr/PAMP.html">(<b><u>link</u></b>)</a>
+  - December 2025, Mesures de Gibbs, Turbulence d’onde et EDP stochastiques, Évry 
 
 languages:
   - name: French
