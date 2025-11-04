@@ -63,14 +63,14 @@ education:
     date_end: 2020
 
 confs:
+  - June 2025, ANR Smooth Conference, Lyon
   - May 2025, ANR ADA Conference, Lyon
   - February 2025, DynQua Conference 2025, Angers
   - November 2024, Journées EDP Auvergne-Rhône-Alpes, LJK Grenoble
 
 upconfs:
-  - June 2025, ANR Smooth Conference, Lyon
   - November 2025, Probability, Analysis and Mathematical Physics, Nanterre
-# <a href="https://amouzard.perso.math.cnrs.fr/PAMP.html">(<b><u>link</u></b>)</a>
+<a href="https://amouzard.perso.math.cnrs.fr/PAMP.html">(<b><u>link</u></b>)</a>
 
 languages:
   - name: French
