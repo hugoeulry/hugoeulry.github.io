@@ -24,7 +24,7 @@ summary: We study the parabolic defocusing stochastic quantization equation with
 
 #featured: true
 
-url_pdf: https://arxiv.org/abs/2401.12742
+url_pdf: https://link.springer.com/article/10.1007/s40072-025-00397-6
 
 share: false
 ---
