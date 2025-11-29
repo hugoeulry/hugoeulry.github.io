@@ -10,6 +10,7 @@ math: true
 
 Les feuilles d'exos accompagnant les compléments de cours donnés à l'ENS de Lyon en 2025-2026.
 - [Fonctions holomorphes](./docs/TD_holo.pdf).
+- [Analyse hilbertienne](./docs/TD_Hilbert.pdf).
 
 
 ## Notes de cours
