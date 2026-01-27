@@ -28,6 +28,11 @@
           {{- $item.Date | time.Format ("2006") -}}
         </span>
       </p>
+      {{ with $item.Params.publication }}
+      <p class="text-gray-500 dark:text-gray-400 text-sm italic">
+      {{ . }}
+      </p>
+      {{ end }}
       
       
       <p class="text-gray-500 dark:text-gray-400 text-sm">

@@ -19,8 +19,7 @@ publication_short: ""
 abstract: We study in this short note a counterpart to the quasilinear generalized parabolic Anderson model (gPAM) on the 2-dimensional torus where the coefficients are nonlocal functionals of the solution. Under a positivity assumption on the diffusion coefficient we give a local in time solution theory within the framework of paracontrolled calculus. 
 
 # Summary. An optional shortened abstract.
-summary: > **Accepted in Bulletin de la SMF** 
-We study a counterpart to the quasilinear generalized parabolic Anderson model on the 2-dimensional torus where the coefficients are nonlocal functionals of the solution.
+summary: We study a counterpart to the quasilinear generalized parabolic Anderson model on the 2-dimensional torus where the coefficients are nonlocal functionals of the solution.
 
 #featured: true
 
