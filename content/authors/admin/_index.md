@@ -66,7 +66,6 @@ confs:
   - December 2025, Mesures de Gibbs, Turbulence d’onde et EDP stochastiques, Évry 
   - November 2025, Probability, Analysis and Mathematical Physics, Nanterre <a href="https://amouzard.perso.math.cnrs.fr/PAMP.html">(<b><u>link</u></b>)</a>
   - June 2025, ANR Smooth Conference, Lyon
-  - May 2025, ANR ADA Conference, Lyon
   
 upconfs:
   - May 2025, Journée d'équipe, ENS Lyon
