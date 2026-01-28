@@ -28,10 +28,16 @@
           {{- $item.Date | time.Format ("2006") -}}
         </span>
       </p>
-      {{ with (or $item.Params.publication_short $item.Params.publication) }}
+      {{ if eq $item.Params.pubstate "accepted" }}
       <span class="pub-badge">
-        <em>{{ . | replaceRE "\\*" "" }}</em>
+      Accepted in <em>{{ $item.Params.publication }}</em>
       </span>
+      {{ else if eq $item.Params.pubstate "published" }}
+      <span class="pub-badge">
+      <em>{{ $item.Params.publication }}</em>
+      </span>
+      {{ else }}
+      <span class="pub-badge preprint">Preprint</span>
       {{ end }}
 
       

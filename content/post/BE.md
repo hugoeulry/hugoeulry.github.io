@@ -14,6 +14,7 @@ reading_time: false
 
 # Publication name and optional abbreviated publication name.
 publication: "Accepted in *Bulletin de la Société Mathématique de France*"
+pubstate: accepted
 publication_short: ""
 
 abstract: We study in this short note a counterpart to the quasilinear generalized parabolic Anderson model (gPAM) on the 2-dimensional torus where the coefficients are nonlocal functionals of the solution. Under a positivity assumption on the diffusion coefficient we give a local in time solution theory within the framework of paracontrolled calculus. 
