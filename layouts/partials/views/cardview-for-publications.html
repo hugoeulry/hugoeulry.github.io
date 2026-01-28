@@ -30,7 +30,7 @@
       </p>
       {{ with (or $item.Params.publication_short $item.Params.publication) }}
       <span class="pub-badge">
-      {{ . }}
+        {{ . | replaceRE "\\*" "" }}
       </span>
       {{ end }}
 
