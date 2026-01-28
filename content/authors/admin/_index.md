@@ -63,14 +63,16 @@ education:
     date_end: 2020
 
 confs:
+  - December 2025, Mesures de Gibbs, Turbulence d’onde et EDP stochastiques, Évry 
+  - November 2025, Probability, Analysis and Mathematical Physics, Nanterre <a href="https://amouzard.perso.math.cnrs.fr/PAMP.html">(<b><u>link</u></b>)</a>
   - June 2025, ANR Smooth Conference, Lyon
   - May 2025, ANR ADA Conference, Lyon
-  - February 2025, DynQua Conference 2025, Angers
-  - November 2024, Journées EDP Auvergne-Rhône-Alpes, LJK Grenoble
-
+  
 upconfs:
-  - November 2025, Probability, Analysis and Mathematical Physics, Nanterre <a href="https://amouzard.perso.math.cnrs.fr/PAMP.html">(<b><u>link</u></b>)</a>
-  - December 2025, Mesures de Gibbs, Turbulence d’onde et EDP stochastiques, Évry 
+  - May 2025, Journée d'équipe, ENS Lyon
+  - March 2025, Institut Denis Poisson seminar, Orléans
+  - February 2025, DynQua Conference 2025, Angers
+
 
 languages:
   - name: French
