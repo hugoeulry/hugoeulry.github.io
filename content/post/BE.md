@@ -13,7 +13,7 @@ reading_time: false
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted in *Bulletin de la Société Mathématique de France*"
+publication: "Bulletin de la Société Mathématique de France"
 pubstate: accepted
 publication_short: ""
 
