@@ -1,6 +1,6 @@
 ---
 title: Documents des années passées
-summary: EDP 2022-2023 et Analyse avancée 2023-2024
+summary: EDP 2022-2023, EDP 2024-2025 et Analyse avancée 2023-2024
 date: 2024-07-01
 type: docs
 math: true
