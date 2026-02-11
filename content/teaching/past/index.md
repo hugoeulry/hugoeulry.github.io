@@ -6,6 +6,17 @@ type: docs
 math: true
 ---
 
+## EDP (L3 ENS Lyon) 2024-2025
+
+- [TD1](./docs/EDPL/TD1.pdf) : Équation de transport et équation des ondes
+- [TD2](./docs/EDPL/TD2.pdf) : Lois de conservation scalaires
+- [TD3](./docs/EDPL/TD3.pdf) : Espaces L^p
+- [TD4](./docs/EDPL/TD4.pdf) : Solutions entropiques
+- [TD5](./docs/EDPL/TD5.pdf) : Équation de la chaleur
+- [TD6](./docs/EDPL/TD6.pdf) : Espaces de Sobolev et un peu d'elliptique
+- [DM1](./docs/EDPL/DM1.pdf) : à rendre le mercredi 26 février 2025
+- [DM2](./docs/EDPL/DM2.pdf) : à rendre le mercredi 9 avril 2025
+
 ## Analyse avancée (M1 ENS Rennes) 2023-2024 
 
 - [TD1](./docs/ANAV/TD1.pdf) : Espaces de Lebesgue
