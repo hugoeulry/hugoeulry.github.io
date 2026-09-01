@@ -68,6 +68,7 @@ confs:
   - June 2025, ANR Smooth Conference, Lyon
   
 upconfs:
+  - June 2026, ANR Smooth Workshop, Paris Jussieu
   - May 2025, Journée d'équipe, ENS Lyon
   - March 2025, Institut Denis Poisson seminar, Orléans
   - February 2025, DynQua Conference 2025, Angers

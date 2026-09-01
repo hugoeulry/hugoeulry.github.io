@@ -65,6 +65,7 @@ sections:
     content: 
       title: Past and upcoming talks
       text: |- 
+            - June 2026, ANR Smooth Workshop, Paris Jussieu
             - May 2025, Journée d'équipe, ENS Lyon
             - March 2025, Journée jeunes analystes et modélisateurs, ICJ Lyon.
             - March 2025, Institut Denis Poisson seminar, Orléans.
