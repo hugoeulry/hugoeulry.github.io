@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Assistant professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UMPA, ENS Lyon
-    url: https://www.umpa.ens-lyon.fr/
+  - name: Laboratoire de Mathématiques de Besançon
+    url: https://lmb.univ-fcomte.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
