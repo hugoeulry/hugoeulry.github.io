@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:hugo.eulry@ens-lyon.fr'
+    url: 'mailto:hugo.eulry@umlp.fr'
     label: E-mail Me
   - icon: brands/arxiv
     url: https://arxiv.org/search/?query=eulry&searchtype=author&source=header
